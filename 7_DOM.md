@@ -1,4 +1,4 @@
-//DOM
+DOM
     /Document Object Model of the page
     /is constructed as a tree of Objects
     /is a standard object model and programming interface for HTML.
