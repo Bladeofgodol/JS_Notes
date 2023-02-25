@@ -87,7 +87,7 @@ do {
 function name(x, n) { // declared by function then the name then the arguments to be used in that fnucntion
     //code to be excuted
     var j = 6; // we can declare a varable in an function used in that function only
-    return n * x * n2;// we can use variable from argument or outside the argument or inside the function
+    return n * x * n2;// we can use variables from argument or outside the argument or inside the function
 }
     
 //DOM
